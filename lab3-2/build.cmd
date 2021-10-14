@@ -1,0 +1,1 @@
+cl.exe /LD /EHsc CarInProcServer.cpp CoCarClassFactory.cpp CoCar.cpp iid.cpp OleAut32.lib /link /dll /def:CarInProcServer.def

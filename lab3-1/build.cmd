@@ -1,0 +1,1 @@
+cl /EHsc main.cpp iid.cpp CoCar.cpp OleAut32.lib

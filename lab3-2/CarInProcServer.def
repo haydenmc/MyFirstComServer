@@ -1,0 +1,4 @@
+LIBRARY "CARINPROCSERVER"
+EXPORTS
+    DllCanUnloadNow     PRIVATE
+    DllGetClassObject   PRIVATE
